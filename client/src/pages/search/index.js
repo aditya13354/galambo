@@ -76,7 +76,7 @@ export default function Globe() {
     const res = await axios(
       {
         method: "post",
-        url: `https://berrygoodmedia.herokuapp.com/http://155.130.70.168:4040/search`,
+        url: `https://dd3d-2401-4900-883f-de07-e975-4115-cc2b-861e.ngrok-free.app/search`,
         responseType: "stream",
       },
       {
