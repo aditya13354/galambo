@@ -1,0 +1,9 @@
+{
+  "id": 858878,
+  "created_at": "2024-03-09T11:57:05.221623+00:00",
+  "query": "Historical Events",
+  "gpt_response": "{\"Renaissance Art\":{\"Music\":{\"Choral Music\":{\"Composers\":{\"Josquin des Prez\":{},\"Giovanni Pierluigi da Palestrina\":{}},\"Forms\":{\"Motets\":\"\",\"Masses\":{}}}},\"Sculpture\":{\"Marble Sculpture\":{\"Artists\":{\"Donatello\":{},\"Michelangelo\":{}},\"Techniques\":{\"Contrapposto\":{},\"Draperies\":{}},\"Subjects\":{\"Biblical figures\":{},\"Classical deities\":{}}},\"Bronze Sculpture\":{\"Artists\":{\"Benvenuto Cellini\":{},\"Giambologna\":{}},\"Techniques\":{\"Lost-wax casting\":{},\"Dynamic poses\":{}},\"Subjects\":{\"Mythological creatures\":{},\"Historical figures\":{}}}},\"Printmaking\":{\"Woodcut\":{\"Artists\":{\"Albrecht Dürer\":{},\"Hans Holbein the Younger\":{}},\"Techniques\":{\"Black lines on white paper\":{},\"Carving tools\":{}},\"Subjects\":{\"Religious scenes\":{},\"Mythological creatures\":{}}},\"Engraving\":{\"Artists\":{\"Marcantonio Raimondi\":{},\"Lucas van Leyden\":{}},\"Techniques\":{\"Fine lines and intricate details\":{},\"Metal plates\":{}},\"Subjects\":{\"Classical stories\":{},\"Portraits\":{}}}}}}",
+  "ttft": 5493,
+  "ttlt": 4344,
+  "userid": "user_1709985410809_vlvr5lau2"
+}
