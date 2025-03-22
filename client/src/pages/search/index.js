@@ -76,7 +76,7 @@ export default function Globe() {
     const res = await axios(
       {
         method: "post",
-        url: `https://dd3d-2401-4900-883f-de07-e975-4115-cc2b-861e.ngrok-free.app/search`,
+        url: `https://aaf2-2401-4900-883f-de07-1db5-a569-6e8d-7841.ngrok-free.app/search/`,
         responseType: "stream",
       },
       {
